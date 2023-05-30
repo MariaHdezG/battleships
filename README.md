@@ -92,7 +92,7 @@ Random board generatio
   #Credits
 
   Code Institute for the deployment terminal
-  https://copyassignment.com/battleship-game-code-in-python/ where I found explanations and codes.
+  ("https://copyassignment.com/battleship-game-code-in-python/") where I found explanations and codes and also ("https://www.youtube.com/watch?v=tF1WRCrd_HQ")
 
 
 
